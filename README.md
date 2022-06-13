@@ -16,7 +16,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 [^2]:
 
-[^3]:D 
+[^3]:
 
 ## SUMMARY
 

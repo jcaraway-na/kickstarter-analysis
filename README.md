@@ -40,18 +40,18 @@ Louise's fundraiser was launched late into the "LIVE" fundraiser season. Therefo
 
 #### Chart Definitions:
 
-- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
+- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal fundraiser goal amount.
 
 ### Fundraiser Data Convergence Table
 ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/outcomes_based_on_goal_res/outcome_table1.png)
 
 #### Chart Definitions:
 
-- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
+- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal fundraiser goal amount.
 
 #### In Summary:
 
-As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign 53% of the time. The lower the campain goal is, then the more likly the goal will be met. 
+As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign 53% of the time. The more conservative the campain goal is, then the more likly the goal will be met. 
 
 ## DELIVERABLE 3
 
@@ -59,6 +59,7 @@ As illustrated in the chart and table above, we can see a clear data convergence
 
 #### Final Summary:
 
+After completing the analysis of theater outcomes based on launch date and outcomes based on goals, we can now determain the optimal campain start date would be mid to late April. Giving the fundraiser the full "LIVE" exposer time during Q3 (May, June, July, and August). Also, based on the  the outcomes based on goals data, setting a more conservative fundraiser goal of less than $10,000 would be recommended. 
 
 
 

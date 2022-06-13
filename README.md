@@ -1,32 +1,31 @@
 # An Analysis of Kickstarter Campaigns.
 
-Performing analysis on Kickstarter data to uncover trends
+### BACKGROUND
 
-## INDEX:
+Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, visualize campaign outcomes based on their launch dates and their funding goals.
 
-1.OBJECTIVE: Theater Outcomes Based on Launch Date[^1]
+### OBJECTIVE
 
-2.[^2]
-
-3.[^3]
-
-## FINDINGS / ANALYSIS
-
-![This is an image]()
+- DELIVERABLE 1: Outcomes Based on Launch Date Chart and Summary.
+- DELIVERABLE 2: Outcomes Based on Goals Chart and Summary.
+- DELIVERABLE 3: Written analysis of any D1 vs D2 relations. Also, recommend optimal launch quarter.
 
 ---
-
-![This is an image]()
-
-[^1]: "Theater Outcomes Based on Launch Date."
-
-[^2]:
-
-[^3]:
-
 ---
+---
+## DELIVERABLE 1
 
-## SUMMARY
+### Theater Outcomes Based on Launch Date Chart and Summary.
+![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch1.png)
+
+## DELIVERABLE 2
+
+[^2]: Outcomes Based on Goals Chart and Summary.
+
+## DELIVERABLE 3
+
+### Written analysis of any D1 vs D2 relations. Also, recommend optimal launch quarter.
+
 
 
 

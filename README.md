@@ -12,11 +12,11 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## FINDINGS / ANALYSIS
 
-![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/Outcome_vs_Goals.png)
+![This is an image]()
 
 ---
 
-![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![This is an image]()
 
 [^1]: "Theater Outcomes Based on Launch Date."
 

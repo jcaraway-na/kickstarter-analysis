@@ -25,7 +25,7 @@ Louise's play Fever came close to its fundraising goal in a short amount of time
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_canceled.png) Launch date vs number of canceled fundraiser outcomes.
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_grand_total.png) Launch date vs total number of fundraisers per month (successful, failed, and canceled.)
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_launch.png)    Optimal fundraiser launch date.
-- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "live" fundraiser season.
+- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
 
 #### In Summary:
 
@@ -35,7 +35,7 @@ Louise's fundraiser was launched late into the "LIVE" fundraiser season. Therefo
 
 ## DELIVERABLE 2
 
-[^2]: Outcomes Based on Goals Chart and Summary.
+### Outcomes Based on Goals Chart and Summary.
 
 ## DELIVERABLE 3
 

@@ -4,6 +4,8 @@
 
 Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, visualize campaign outcomes based on their launch dates and their funding goals.
 
+
+
 ### OBJECTIVE
 
 - DELIVERABLE 1: Outcomes Based on Launch Date Chart and Summary.
@@ -16,14 +18,13 @@ Louise's play Fever came close to its fundraising goal in a short amount of time
 ## DELIVERABLE 1
 
 ### Theater Outcomes Based on Launch Date Chart and Summary.
-![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/Theater_Outcomes_vs_Launch2.png)
+![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/Theater_Outcomes_vs_Launch6.png)
 
 #### Chart Definitions:
 
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_successful.png) Launch date vs number of successful fundraiser outcomes.
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_failed.png) Launch date vs number of failed fundraiser outcomes .
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_canceled.png) Launch date vs number of canceled fundraiser outcomes.
-- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/mrkr_grand_total.png) Launch date vs total number of fundraisers per month (successful, failed, and canceled.)
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_launch.png)    Optimal fundraiser launch date.
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
 
@@ -59,7 +60,7 @@ As illustrated in the chart and table above, we can see a clear data convergence
 
 #### Final Summary:
 
-After completing the analysis of theater outcomes based on launch date and outcomes based on goals, we can now determain the optimal campain start date would be mid to late April. Giving the fundraiser the full "LIVE" exposer time during Q3 (May, June, July, and August). Also, based on the  the outcomes based on goals data, setting a more conservative fundraiser goal of less than $10,000 would be recommended. 
+After completing the analysis of theater outcomes based on launch date and outcomes based on goals; We can determain the optimal campain start date would be mid to late April. Giving the fundraiser the full "LIVE" exposer time during Q3 (May, June, July, and August). Also, based on the  the "outcomes based on goals" data, setting a more conservative fundraiser goal of less than $10,000 would be recommended. 
 
 
 

@@ -36,10 +36,29 @@ Louise's fundraiser was launched late into the "LIVE" fundraiser season. Therefo
 ## DELIVERABLE 2
 
 ### Outcomes Based on Goals Chart and Summary.
+![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/outcomes_based_on_goal_res/Outcome_vs_Goals.png)
+
+#### Chart Definitions:
+
+- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
+
+### Fundraiser Data Convergence Table
+![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/outcomes_based_on_goal_res/outcome_table1.png)
+
+#### Chart Definitions:
+
+- ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal "LIVE" fundraiser season.
+
+#### In Summary:
+
+As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign 53% of the time. The lower the campain goal is, then the more likly the goal will be met. 
 
 ## DELIVERABLE 3
 
 ### Written analysis of any D1 vs D2 relations. Also, recommend optimal launch quarter.
+
+#### Final Summary:
+
 
 
 

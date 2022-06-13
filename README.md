@@ -12,11 +12,17 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## FINDINGS / ANALYSIS
 
+![This is an image]()
+
+![This is an image]()
+
 [^1]:
 
 [^2]:
 
 [^3]:
+
+---
 
 ## SUMMARY
 

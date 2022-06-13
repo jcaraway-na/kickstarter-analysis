@@ -2,8 +2,8 @@
 
 Performing analysis on Kickstarter data to uncover trends
 
-##INDEX:
----
+##INDEX:---
+
 1.OBJECTIVE: INVESTIGATE FOR POSSIBLE RELATIONAL CORRILATION BETWEEN KICKSTARTER LAUNCH DATES vs FUNDING GOALS.[^1]
 
 2.[^2]

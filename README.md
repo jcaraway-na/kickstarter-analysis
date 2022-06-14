@@ -2,20 +2,29 @@
 
 ### BACKGROUND
 
-Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, visualize campaign outcomes based on their launch dates and their funding goals.
+> Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset, visualize campaign outcomes based on their launch dates and their funding goals.
 
+The analysis below will provide insight into the following:
+- Optimal fundraiser Launch time.
+- Optimal fundraiser "LIVE" run time.
+- Identify "Peak Backer Traffic".
+- Identify "Fundraising Seasons".
+- Identify any "Outlire" data points.
+- Optimal fundraiser $ amount vs success rate.
 
 
 ### OBJECTIVE
 
-- DELIVERABLE 1: Outcomes Based on Launch Date Chart and Summary.
-- DELIVERABLE 2: Outcomes Based on Goals Chart and Summary.
-- DELIVERABLE 3: Written analysis of any D1 vs D2 relations. Also, recommend optimal launch quarter.
+- DELIVERABLE 1: Outcomes Based on Launch Date Charts and Summarys.
+- DELIVERABLE 2: Outcomes Based on Goals Charts and Summarys.
 
 ---
 ---
 ---
-## DELIVERABLE 1
+
+## DELIVERABLE 1 
+
+> Outcomes Based on Launch Date
 
 ### Theater Outcomes Based on Launch Date Chart and Summary.
 ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/Theater_Outcomes_vs_Launch6.png)
@@ -52,6 +61,8 @@ Louise's fundraiser was launched late into the "LIVE" fundraiser season. Therefo
 We can also peer into total number of backers per month. Taking a closer look at the "Total Backers per Month" chart, the data for May and October reviels "peak backer traffic". We notice that this correlates very well vs the May and October months from the "Theater Outcomes Based on Launch Date" chart. Indicating that you could possibly launch a very conservative campaign in late August in order to catch the "LIVE" exposer time for the months of September & October; October being the peak backer traffic period.
 
 ## DELIVERABLE 2
+
+> Outcomes Based on Goals
 
 ### Fundraiser Data Density Distribution
 ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/nd_goal_density_res/ND_Goal_Density.png)
@@ -90,6 +101,9 @@ As illustrated in the chart and table above, we can see a clear data convergence
 ---
 ---
 ---
+
+# END
+
 
 
 

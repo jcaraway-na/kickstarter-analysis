@@ -47,7 +47,9 @@ Louise's fundraiser was launched late into the "LIVE" fundraiser season. Therefo
 
 #### In Summary 1.1:
 
-We can also peer into total number of backers per month. Taking a closer look at the "Total Backers per Month" chart, the data for May and October reviels "peak backer traffic". We notice that this correlates very well vs the May and October months from the "Theater Outcomes Based on Launch Date" chart. Indicating that you could launch a very conservative and successful campain in late August in order to catch the "LIVE" exposer time for the months of September & October.
+> Take into consideration the peaks pointed out by the yellow arrows...
+
+We can also peer into total number of backers per month. Taking a closer look at the "Total Backers per Month" chart, the data for May and October reviels "peak backer traffic". We notice that this correlates very well vs the May and October months from the "Theater Outcomes Based on Launch Date" chart. Indicating that you could possibly launch a very conservative campaign in late August in order to catch the "LIVE" exposer time for the months of September & October; October being the peak backer traffic period.
 
 ## DELIVERABLE 2
 
@@ -85,13 +87,9 @@ After removing the data points, we find that the optimal fundraising goal ranges
 
 As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign. The more conservative the campaign goal is, then the more likly the goal will be met. 
 
-## DELIVERABLE 3
-
-### Written analysis of any D1 vs D2 relations. Also, recommend optimal launch quarter.
-
-#### Final Summary:
-
-After completing the analysis of theater outcomes based on launch date and outcomes based on goals; We can determain the optimal campain start date would be mid to late April. Giving the fundraiser the full "LIVE" exposer time during Q3 (May, June, July, and August). Also, based on the  the "outcomes based on goals" data, setting a more conservative fundraiser goal of less than $10,000 would be recommended. 
+---
+---
+---
 
 
 

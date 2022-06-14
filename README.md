@@ -59,17 +59,17 @@ We can also peer into total number of backers per month. Taking a closer look at
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal fundraiser goal amount.
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/nd_goal_density_res/suboptimal1.png)    Suboptimal fundraiser goal amount.
 
-#### In Summary 1.0:
+#### In Summary 2.0:
 
-Looking closer at the overall distribution of our data set, we find by plotting the data density shows us that most of the fundraising goals hover anywhere between $1,000 and $10,000. We also can determine that there are a few outliers in the dataset that should be removed for a better apples to apples comparison.
+Looking closer at the overall distribution of our data set, we find by plotting the data density shows us that most of the fundraising goals hover anywhere between $1,000 and $10,000. We also can determine that there are a few outliers in the dataset that should be removed for an improved apples to apples comparison.
 
 ##### Records Removed
 - The Time Jumper / Goal = $100mil / outcome = canceled
 - Lynnewood Hall Restoration / Goal = $30mil / outcome = canceled
 - KJV2015 / Goal = $25mil / outcome = canceled
-- Project: eXelcius - Next Generation Movie / Goal = $10mil
+- Project: eXelcius - Next Generation Movie / Goal = $10mil / outcome = failed
 
-After removing the data points we find that the optimal fundraising goal ranges between $1000 and $10,000. The Fever fundraiser falls inside the $1,000 to $4,999 range. This range has a 66% Successful Goal Distribution rate. If Louise takes advantage of the 2 stage fundraising recommendation that was mention in "DELIVERABLE 1", then funding this campain will be no problem.
+After removing the data points, we find that the optimal fundraising goal ranges between $1000 and $10,000. The Fever fundraiser falls inside the $1,000 to $4,999 bin, in-which 33.4% of the total fundraiser campaigns are allocated to (Blue). This bin/range has a 66% Successful Goal Distribution rate (Green). If Louise takes advantage of the 2 stage fundraising recommendation, that was mention in "DELIVERABLE 1", then funding this campaign will be no problem.
 
 ### Outcomes Based on Goals Chart and Summary.
 ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/outcomes_based_on_goal_res/Outcome_vs_Goals.png)
@@ -78,10 +78,12 @@ After removing the data points we find that the optimal fundraising goal ranges 
 
 - ![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/theater_outcome_chart_res/optimal_fundraiser_season.png)    Optimal fundraiser goal amount.
 
+### Outcomes Based on Goals Table and Summary.
+![This is an image](https://github.com/jcaraway-na/kickstarter-analysis/blob/main/resources/outcomes_based_on_goal_res/outcome_table1.png)
 
-#### In Summary 1.1:
+#### In Summary 2.1:
 
-As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign 53% of the time. The more conservative the campain goal is, then the more likly the goal will be met. 
+As illustrated in the chart and table above, we can see a clear data convergence around $10,000. With a goal of $10,000 or less, Louise should be able to successfully fund the campaign. The more conservative the campaign goal is, then the more likly the goal will be met. 
 
 ## DELIVERABLE 3
 
